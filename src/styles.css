@@ -1,0 +1,11 @@
+.color-fondo{
+    background-color: #006241;
+}
+
+.color{
+    color: #006241;
+}
+
+.card-height-custom{
+    min-height: 22rem !important;
+}

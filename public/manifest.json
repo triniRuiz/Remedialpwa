@@ -1,0 +1,35 @@
+{
+  "short_name": "Starbucks",
+  "name": "Starbucks App",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "62x62 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.svg",
+      "type": "image/svg",
+      "sizes": "180x65"
+    },
+    {
+      "src": "logomd.png",
+      "type": "image/png",
+      "sizes": "480x480"
+    },
+    {
+      "src": "logolg.svg",
+      "type": "image/svg",
+      "sizes": "750x750"
+    },
+    {
+      "src": "logoxl.svg",
+      "type": "image/svg",
+      "sizes": "1080x1080"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

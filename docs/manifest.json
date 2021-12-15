@@ -3,27 +3,27 @@
   "name": "Starbucks App",
   "icons": [
     {
-      "src": "./favicon.png",
+      "src": "favicon.png",
       "sizes": "62x62 32x32 24x24 16x16",
       "type": "image/png"
     },
     {
-      "src": "./logo.svg",
+      "src": "logo.svg",
       "type": "image/svg",
       "sizes": "180x65"
     },
     {
-      "src": "./logomd.png",
+      "src": "logomd.png",
       "type": "image/png",
       "sizes": "480x480"
     },
     {
-      "src": "./logolg.svg",
+      "src": "logolg.svg",
       "type": "image/svg",
       "sizes": "750x750"
     },
     {
-      "src": "./logoxl.svg",
+      "src": "logoxl.svg",
       "type": "image/svg",
       "sizes": "1080x1080"
     }

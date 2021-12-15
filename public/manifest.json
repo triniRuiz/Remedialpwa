@@ -3,27 +3,27 @@
   "name": "Starbucks App",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/favicon.png",
       "sizes": "62x62 32x32 24x24 16x16",
       "type": "image/png"
     },
     {
-      "src": "logo.svg",
+      "src": "https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/logo.svg",
       "type": "image/svg",
       "sizes": "180x65"
     },
     {
-      "src": "logomd.png",
+      "src": "https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/logomd.png",
       "type": "image/png",
       "sizes": "480x480"
     },
     {
-      "src": "logolg.svg",
+      "src": "https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/logolg.svg",
       "type": "image/svg",
       "sizes": "750x750"
     },
     {
-      "src": "logoxl.svg",
+      "src": "https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/logoxl.svg",
       "type": "image/svg",
       "sizes": "1080x1080"
     }

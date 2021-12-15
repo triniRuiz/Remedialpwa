@@ -5,7 +5,7 @@ import { Link, NavLink } from 'react-router-dom'
 
 export const Navbar = () => {
 
-    const logo =  `/logo.svg`
+    const logo =  `/assets/logo.svg`
 
 
     return (

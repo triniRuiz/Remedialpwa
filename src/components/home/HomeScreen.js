@@ -1,14 +1,14 @@
 
 export const HomeScreen = () => {
 
-    const ca01 = `/assets/ca01.jpg`;
-    const ca02 = `/assets/ca02.jpg`;
-    const ca03 = `/assets/ca03.jpg`;
-    const ca04 = `/assets/ca04.jpg`;
-    const ca05 = `/assets/ca05.jpg`;
-    const ca06 = `/assets/ca06.jpg`;
-    const ca07 = `/assets/imglat.png`;
-    const ca08 = `/assets/img02.jpg`;
+    const ca01 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/ca01.jpg`;
+    const ca02 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/ca02.jpg`;
+    const ca03 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/ca03.jpg`;
+    const ca04 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/ca04.jpg`;
+    const ca05 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/ca05.jpg`;
+    const ca06 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/ca06.jpg`;
+    const ca07 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/imglat.png`;
+    const ca08 = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/img02.jpg`;
     return (
         <div className='row justify-content-center'>
             <div className='col-12 col-sm-10 mt-sm-2 col-md-11 col-lg-10'>

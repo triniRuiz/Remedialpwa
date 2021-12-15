@@ -1,1 +1,12 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,aACI,wBACJ,CAEA,OACI,aACJ,CAEA,oBACI,0BACJ","file":"main.a882ac72.chunk.css","sourcesContent":[".color-fondo{\n    background-color: #006241;\n}\n\n.color{\n    color: #006241;\n}\n\n.card-height-custom{\n    min-height: 22rem !important;\n}\n"]}
+{
+    "version": 3,
+    "sources": [
+        "webpack://src/styles.css"
+    ],
+    "names": [],
+    "mappings": "AAAA,aACI,wBACJ,CAEA,OACI,aACJ,CAEA,oBACI,0BACJ",
+    "file": "main.a882ac72.chunk.css",
+    "sourcesContent": [
+        ".color-fondo{\n    background-color: #006241;\n}\n\n.color{\n    color: #006241;\n}\n\n.card-height-custom{\n    min-height: 22rem !important;\n}\n"
+    ]
+}

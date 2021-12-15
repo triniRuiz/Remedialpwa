@@ -8,7 +8,7 @@ export const Card = ({
     preparacion,
 }) => {
 
-    const imagePath = `/assets/${id}.jpg`;
+    const imagePath = `https://s3.us-east-2.amazonaws.com/biitacora.develop.com/starbucks/${id}.jpg`;
 
     return (
         <div className="col-12 col-sm-10 col-md-4 col-lg-3 my-3 animate__animated animate__fadeIn">
